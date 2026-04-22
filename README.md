@@ -39,7 +39,7 @@ gen-ai-workflow-assignment/
 
 ## 🌐 Demo
 
-🔗 **GitHub Pages:** [Xem trang web](https://nguyentuanthanh25112107.github.io/gen-ai-workflow-assignment/)
+🔗 **GitHub Pages:** [Xem trang web](https://thanhnguyn.github.io/gen-ai-workflow-assignment/)
 
 > ⚠️ Thay link trên bằng link GitHub Pages thực tế của bạn
 
