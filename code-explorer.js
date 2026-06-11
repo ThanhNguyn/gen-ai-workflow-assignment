@@ -5,7 +5,8 @@
   const FILES = [
     { name: 'index.html', path: 'index.html', type: 'file' },
     { name: 'styles.css', path: 'styles.css', type: 'file' },
-    { name: 'script.js', path: 'script.js', type: 'file' }
+    { name: 'script.js', path: 'script.js', type: 'file' },
+    { name: 'README.md', path: 'README.md', type: 'file' }
   ];
 
   // Load PrismJS Assets dynamically
